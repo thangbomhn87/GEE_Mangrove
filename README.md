@@ -8,5 +8,6 @@ This is a guideline for running a GPR model for mapping mangrove traits through 
 
 Please email nabinh@hcmig.vast.vn for any further information.
 
-* Folder **GPR_Parameters**: Contains GPR retrieval models for Leaf area index (LAI), Leaf chlorophyll content (Cab), Leaf water content (cw), and Leaf Dry Matter Content (Cm).
+* Folder **GPR_Parameters**: Contains GPR retrieval models for Leaf area index (LAI), Leaf chlorophyll content (Cab), Leaf water content (cw), and Leaf Dry Matter Content (Cm). These models will be used in the Colab Notebook for mapping specific mangrove traits (LAI, Cab, Cw, Cm) simultaneously with uncertainties.
+  
 * Folder **GPR_Python**: Contains Python script (also can run in Google Colab) for mapping mangrove traits and pixel-wise uncertainty. 
