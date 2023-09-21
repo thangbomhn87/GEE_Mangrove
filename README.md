@@ -7,3 +7,6 @@ Author: Nguyen An Binh, Leon T. Hauser, Matías Salinero-Delgado, Pham Viet Hoa,
 This is a guideline of running a GPR model for mapping mangrove traits through Google Earth Engine (GEE) Python API, as proposed by the manuscript entitled: Monitoring mangrove stands traits through optical earth observation: towards spatio-temporal scalability using cloud-based Sentinel-2 continuous time series
 
 Please email to nabinh@hcmig.vast.vn for any further information.
+
+* Folder GPR_Parameters: Contains GPR retrieval models for Leaf area index (LAI), Leaf chlorophyll content (Cab), Leaf water content (cw), and Leaf Dry Matter Content (Cm).
+* Folder GPR_Python: Contains Python script (also can run in Google Colab) for mapping mangrove traits and pixel-wise uncertainty. 
