@@ -1,4 +1,4 @@
-# GEE_Mangrove Traits and Uncertainty Mapping 
+# Google Earth Engine (GEE) Mangrove Traits and Uncertainty Mapping 
 
 Author: Nguyen An Binh, Leon T. Hauser, Matías Salinero-Delgado, Pham Viet Hoa, Giang Thi Phuong Thao, Jochem Verrelst
 
