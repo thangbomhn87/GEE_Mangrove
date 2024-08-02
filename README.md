@@ -4,7 +4,7 @@ Author: Nguyen An Binh, Leon T. Hauser, Matías Salinero-Delgado, Pham Viet Hoa,
 
 This is a guideline for running a GPR model for mapping mangrove traits through Google Earth Engine (GEE) Python API
 
-For more information, please refer to the article entitled: Monitoring mangrove traits through optical Earth observation: Towards spatio-temporal scalability using cloud-based Sentinel-2 continuous time series (https://doi.org/10.1016/j.isprsjprs.2024.06.007)
+For more information, please refer to the article entitled: **Monitoring mangrove traits through optical Earth observation: Towards spatio-temporal scalability using cloud-based Sentinel-2 continuous time series** (https://doi.org/10.1016/j.isprsjprs.2024.06.007)
 
 Please email nabinh@hcmig.vast.vn for any further information.
 
